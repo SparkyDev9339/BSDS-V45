@@ -18,3 +18,6 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.z
 5. click on the run button
 6. now open the game and play
 
+## Credits
+1. sprkdv (server)
+2. vanya_dev (client)
